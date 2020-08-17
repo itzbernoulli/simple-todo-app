@@ -1,6 +1,8 @@
-##React Tutorial – The Beginners Guide to Learning React JS in 2020
+# React Tutorial – The Beginners Guide to Learning React JS in 2020
 
-#Clone the starter project
+Checkout the app by following the [link](https://itzbernoulli.github.io/simple-todo-app/) 
+
+## Clone the starter project
 You can download or clone this project by running this command from your terminal:
 
 ```git clone https://github.com/Ibaslogic/simple-todo-app```
