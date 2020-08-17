@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simple-todo-app/static/css/main.8694691b.chunk.css",
-    "main.js": "/simple-todo-app/static/js/main.a2f81c11.chunk.js",
-    "main.js.map": "/simple-todo-app/static/js/main.a2f81c11.chunk.js.map",
+    "main.js": "/simple-todo-app/static/js/main.696ffdb9.chunk.js",
+    "main.js.map": "/simple-todo-app/static/js/main.696ffdb9.chunk.js.map",
     "runtime-main.js": "/simple-todo-app/static/js/runtime-main.01792ca7.js",
     "runtime-main.js.map": "/simple-todo-app/static/js/runtime-main.01792ca7.js.map",
     "static/js/2.354bc41a.chunk.js": "/simple-todo-app/static/js/2.354bc41a.chunk.js",
     "static/js/2.354bc41a.chunk.js.map": "/simple-todo-app/static/js/2.354bc41a.chunk.js.map",
     "index.html": "/simple-todo-app/index.html",
-    "precache-manifest.e847f04ea8023dd00e1242bfde8cf94a.js": "/simple-todo-app/precache-manifest.e847f04ea8023dd00e1242bfde8cf94a.js",
+    "precache-manifest.acd3a833400ea44f89ade8381282d40e.js": "/simple-todo-app/precache-manifest.acd3a833400ea44f89ade8381282d40e.js",
     "service-worker.js": "/simple-todo-app/service-worker.js",
     "static/css/main.8694691b.chunk.css.map": "/simple-todo-app/static/css/main.8694691b.chunk.css.map",
     "static/js/2.354bc41a.chunk.js.LICENSE.txt": "/simple-todo-app/static/js/2.354bc41a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.01792ca7.js",
     "static/js/2.354bc41a.chunk.js",
     "static/css/main.8694691b.chunk.css",
-    "static/js/main.a2f81c11.chunk.js"
+    "static/js/main.696ffdb9.chunk.js"
   ]
 }
